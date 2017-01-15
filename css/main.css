@@ -1,0 +1,29 @@
+html {
+	height: 100%;
+}
+
+header {
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: orange;
+}
+
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.card {
+  border: 1px solid silver;
+  margin-bottom: 20px;
+}
+.card-image{
+	width: 100%;
+}
+.card-name {
+	padding-left: 15px;
+}
